@@ -1,0 +1,11 @@
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.AssemblyReference.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.dashboard.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.delete.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Form1.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.order.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.Properties.Resources.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.register.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\_1st_year_Final_Project.update.resources
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.GenerateResource.cache
+C:\Users\Saditha Walpita\Desktop\C#\Inventory Management System\1st year Final Project\obj\Debug\1st year Final Project.csproj.CoreCompileInputs.cache
